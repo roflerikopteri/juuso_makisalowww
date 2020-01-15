@@ -1,0 +1,37 @@
+.flexContainer{
+    display: flex;
+    background-color: rgb(241, 154, 23);
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+
+.flexContainer > div, .flexcolumn > div {
+background-color: rgb(240, 240, 97);
+margin: 10px;
+text-align: center;
+line-height: 50px;
+font-size: 30px;
+width: fit-content;
+}
+
+.flexcolumn{
+    display:  flex;
+    background-color: rgb(233, 22, 22);
+    flex-direction: column;
+    max-width: 80%;
+}
+
+.box{
+    float: left;
+    background-color: green;
+    min-width: 200px;
+}
+header{
+height: 150px;
+background-color:  yellow;
+}
+footer{
+    height: 100px;
+    background-color:  yellow;
+}
+
