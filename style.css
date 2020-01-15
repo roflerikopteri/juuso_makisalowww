@@ -24,3 +24,9 @@ h1.warning,note{
 #note1{
     color:  rgb(0, 128, 0);
 }
+
+.comment{
+    border: 4px solid #666;
+    padding:  5px;
+    background-color: rgb(157, 158, 157);
+}
