@@ -20,3 +20,7 @@ h1.warning,note{
     color: rgb(210, 105, 30);
     background-color: rgb(94, 145, 240);
 }
+
+#note1{
+    color:  rgb(0, 128, 0);
+}
