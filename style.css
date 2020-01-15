@@ -30,3 +30,8 @@ h1.warning,note{
     padding:  5px;
     background-color: rgb(157, 158, 157);
 }
+
+article > p{
+    font-weight: bold;
+    color: green;
+}
