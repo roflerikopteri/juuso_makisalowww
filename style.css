@@ -16,7 +16,7 @@ p{
     font-size: 25px;
 }
 
-h1 .warning{
+h1.warning{
     color: rgb(210, 105, 30);
     background-color: rgb(94, 145, 240);
 }
