@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(95, 95, 211);
+    background-image: url("https://www.elsetge.cat/myimg/f/98-989502_cyan-wallpaper-cyan-background-hd.jpg");
+}
+.container{
+    background-color: white;
+    margin-top: 50px;
+    max-width: 1200px;
+}
+
+.bluebg{
+    background-color: rgb(43, 180, 162);
+}
+.blackbg{
+    background-color: black;
+}
+.colheight{
+    max-height: 400px;
+}
+.colwidth{
+    max-width: 285px;
+}
+footer{
+    color: white;
+}
+.btn-group-vertical{
+    margin-top: 5px;
+}
+
+ul >p{
+    color: white;
+}
