@@ -3,7 +3,7 @@ body{
     background-image: url("https://www.elsetge.cat/myimg/f/98-989502_cyan-wallpaper-cyan-background-hd.jpg");
 }
 .container{
-    background-color: white;
+    background-color: rgb(247, 244, 244);
     margin-top: 50px;
     max-width: 1200px;
 }
@@ -12,7 +12,7 @@ body{
     background-color: rgb(43, 180, 162);
 }
 .blackbg{
-    background-color: black;
+    background-color: rgb(2, 2, 2);
 }
 .colheight{
     max-height: 400px;
@@ -21,12 +21,12 @@ body{
     max-width: 285px;
 }
 footer{
-    color: white;
+    color: rgb(240, 232, 232);
 }
 .btn-group-vertical{
     margin-top: 5px;
 }
 
 ul >p{
-    color: white;
+    color: rgb(245, 239, 239);
 }
