@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(212, 178, 212);
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    border-bottom: 16px solid red;
+}
+
+a:link{
+    color:  red;
+    text-decoration: none;
+    text-decoration: solid;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+figure{
+    float: right;
+}
+
+figcaption {
+    caption-side: bottom;
+
+}
