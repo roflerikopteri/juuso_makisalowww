@@ -22,6 +22,7 @@ body{
 }
 footer{
     color: rgb(240, 232, 232);
+    text-align: center;
 }
 .btn-group-vertical{
     margin-top: 5px;
