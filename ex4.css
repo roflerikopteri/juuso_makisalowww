@@ -34,6 +34,8 @@ background-color:  rgb(50, 14, 209);
 }
 footer{
     height: 100px;
+    color: rgb(255, 255, 255);
+    text-align: center;
     background-color:  rgb(8, 8, 8);
 }
 
