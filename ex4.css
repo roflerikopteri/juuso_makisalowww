@@ -29,6 +29,7 @@ width: fit-content;
 header{
 height: 150px;
 color: rgb(235, 225, 225);
+text-align: center;
 background-color:  rgb(50, 14, 209);
 }
 footer{
